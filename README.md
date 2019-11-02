@@ -1,2 +1,3 @@
-# betaflight-configurator-nightlies
-Nightly builds of the Betaflight Configurator
+# Betaflight Configurator Nightly Builds
+Download installable versions of the latest state of Betaflight configurator for Windows / MacOS / Linux from here.
+**Caution: These versions are unstable, and can result in misconfigurations / data loss. Use only for testing.**
